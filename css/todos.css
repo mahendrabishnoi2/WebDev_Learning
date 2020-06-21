@@ -1,0 +1,19 @@
+/* 
+selector {
+    property: value;
+}
+*/
+/* element selector */
+li {
+    border: red solid 2px;
+}
+
+/* id selector */
+#special {
+    background: yellow;
+}
+
+/* class selector */
+.completed {
+    text-decoration: line-through;
+}
